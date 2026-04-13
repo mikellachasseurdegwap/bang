@@ -1,12 +1,1 @@
-# Plan terminé ✅
-
-**Étapes complétées :**
-- ✅ **Étape 1 :** Créer TODO.md
-- ✅ **Étape 2 :** Créer `app/login/page.tsx`
-- ✅ **Étape 3 :** Créer `app/nouvelle-ndf/page.tsx`
-- ✅ **Réinstaller dépendances** (npm install terminé, 0 vulnérabilités)
-- ✅ **Étape 4 :** Modifier `app/layout.tsx` (titre/description mis à jour)
-- ✅ **Corrections TS :** Ajouté imports React et 'use client' aux nouvelles pages
-
-**Test :** Exécutez `npm run dev` pour démarrer le serveur sur http://localhost:3000.  
-Les liens fonctionnent maintenant (pas d'erreurs 404). L'app est prête !
+# TODO - Fix NDF Detail Missing Fields&#10;&#10;✅ [DONE] Diagnostic complet&#10;✅ [DONE] Plan validé&#10;✅ [DONE] 1. Créer app/api/expenses/[id]/route.ts (GET single nested)&#10;&#10;⏳ TO DO:&#10;[ ] 2. Éditer app/ndf/[id]/page.tsx (fix fetch, mapping flat/nested, UI fallbacks)&#10;[ ] 3. Test: npm run dev → dashboard → détail&#10;[ ] 4. Si besoin, check nouvelle-ndf POST body&#10;&#10;Installs: none&#10;Tests: browser navigation
